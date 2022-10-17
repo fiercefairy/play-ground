@@ -1,6 +1,6 @@
 'use strict';
 console.log('hello');
-console.log('this is a website.');
+console.log('this is my website.');
 const myName='ilya';
 console.log('my name is ' + myName);
 let myAge= 14;
