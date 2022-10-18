@@ -9,6 +9,9 @@ header{
 } 
 main{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display:flex;
+    justify-content: space-around;
+    background-color: gray;
 }
 footer{
     font-size:medium;
@@ -79,3 +82,25 @@ nav ul{
     font-size:30px;
     font-family:'Courier New', Courier, monospace;
 }
+#container{
+    width:80%;
+background-color: white;
+}
+#AboutUs{
+text-align: center;
+}
+#Gallery{
+    text-align: center;
+}
+#Necklaces{
+    text-align: center;
+}
+#Earings{
+    text-align: center;
+}
+#Braclets{
+    text-align: center;
+}
+/* #LeftSidebar img{ */
+    /* width:30px; */
+/* } */
