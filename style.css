@@ -59,9 +59,21 @@ header img{
 }
 nav ul{
     display:flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     margin:10p;
 }
 #HomePage{
     display:flex;
+    justify-content:baseline;
 }
+#HomePage img{
+    width:500px;
+    border: 7px black solid;
+    padding:10px;
+    margin:10px;
+}
+#MissionStatement{
+    margin:20px;
+    width:300px;
+    font-size:30px;
+    font-family:'Courier New', Courier, monospace;
