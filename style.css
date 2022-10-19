@@ -104,3 +104,8 @@ text-align: center;
 /* #LeftSidebar img{ */
     /* width:30px; */
 /* } */
+#Gallery img{
+    width:180px;
+    border:7px black solid;
+    padding:5px
+}
